@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_drawable_canvas import st_canvas
 from PIL import Image
 import numpy as np
-from main import analyze_image
+from maingemini import analyze_image
 
 # Title
 st.title("AI Canvas Maths Calculator ")
